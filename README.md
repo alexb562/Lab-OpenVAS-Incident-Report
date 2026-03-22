@@ -179,12 +179,12 @@ One of the main reasons that this vulnerability was exploited was because of poo
 - Create a whitlist of trusted IP addresses and only allow traffic from these to bypass firewall and access internal ports
 ## Appendix
 ### 1.1 Discovery of vulnerable ports on OpenVAS
-[Alt text](appendix11.jpg)
-[Alt text](appendix112.jpg)
+[Alt text](appendix11.png)
+[Alt text](appendix112.png)
 ### 1.2 OpenVAS Report on the vsftpd vulnerability
-[Alt text](appendix12.jpg)
+[Alt text](appendix12.png)
 ### 1.3 Rapid7 example advisory on the vulnerability
-[Alt text](appendix13.jpg)
+[Alt text](appendix13.png)
 
 
 
